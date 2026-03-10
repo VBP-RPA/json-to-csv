@@ -1,0 +1,147 @@
+{
+    "contact_details": {
+        "title": "Contact Details",
+        "questions": [
+            {
+                "question": "Form_Contact_Name",
+                "label": "Contact Name *"
+            },
+            {
+                "question": "Practice Name",
+                "label": "Practice Name *"
+            },
+            {
+                "question": "Contact Phone",
+                "label": "Contact Phone"
+            },
+            {
+                "question": "Contact Email",
+                "label": "Contact Email *"
+            },
+            {
+                "question": "Xplan_Site",
+                "label": "Which XPlan site? *"
+            },
+            {
+                "question": "Licensed_SelfLicenced",
+                "label": "Are you licensed or self-licensed? *"
+            },
+            {
+                "question": "Licensee",
+                "label": "Which Licensee? *"
+            },
+            {
+                "question": "Self_Licensed_Licensee_Name_Answer",
+                "label": "What is the name of your Licensee? *"
+            }
+        ]
+    },
+    "user_details": {
+        "title": "User Details",
+        "questions": [
+            {
+                "question": "Modify Existing Users",
+                "label": "Modify Existing Users"
+            }
+        ]
+    },
+    "modify_users": {
+        "title": "Modify Users",
+        "questions": [
+            {
+                "question": "User name",
+                "label": "User ID (eg. 'jsmith1') *"
+            },
+            {
+                "question": "IPS",
+                "label": "IPS"
+            },
+            {
+                "question": "Risk Res.",
+                "label": "Risk Res."
+            },
+            {
+                "question": "W'Solver",
+                "label": "W'Solver"
+            },
+            {
+                "question": "WS Investments",
+                "label": "WS Inv."
+            },
+            {
+                "question": "Xtools",
+                "label": "Xtools"
+            },
+            {
+                "question": "XtoolsPlus",
+                "label": "Xtools+"
+            },
+            {
+                "question": "Commpay",
+                "label": "Commpay"
+            },
+            {
+                "question": "Alerts",
+                "label": "Alerts"
+            },
+            {
+                "question": "Enable_Existing_User",
+                "label": "Is this user currently virtual ('No-Login') and you are wanting to convert to active, or has it been previouly terminated and is being re/enabled? Additional Information (Important)"
+            },
+            {
+                "question": "Modify_Access_Level",
+                "label": "What type of user in being re/enabled?"
+            },
+            {
+                "question": "New_User_SMS_Gateway_Checkbox",
+                "label": "Do you want to apply an SMS Gateway to this user?"
+            },
+            {
+                "question": "New_User_SMS_Gateway",
+                "label": "Please specify the SMS Gateway provider, if known."
+            },
+            {
+                "question": "New_Other_SMS_Gateway_Name",
+                "label": "Please specify the SMS gateway provider name or domain"
+            }
+        ]
+    },
+    "user_module_details": {
+        "title": "User Module Details",
+        "questions": [
+            {
+                "question": "Effective_Date_Checkbox",
+                "label": "Do you want to schedule the requested changes to take place at a future date? (must be within three business days from date of submission)"
+            },
+            {
+                "question": "Effective Date",
+                "label": "Effective Date"
+            },
+            {
+                "question": "Any additional comments to assist us with your request (eg. adding new user to multiple groups, etc.):",
+                "label": "Any additional comments to assist us with your request (eg. adding new user to multiple groups, etc.):"
+            }
+        ]
+    },
+    "advice_tech_fields": {
+        "title": "Advice Tech Fields",
+        "questions": [
+            {
+                "question": "Salesforce_Case_ID",
+                "label": "Salesforce_Case_ID *"
+            },
+            {
+                "question": "Entity Id of Modify User",
+                "label": "Entity Id of Modify User *"
+            },
+            {
+                "question": "Email Address of Modify User",
+                "label": "Email Address of Modify User *"
+            },
+            {
+                "question": "Sender_Email_Address",
+                "label": "Sender_Email_Address"
+            }
+        ]
+    }
+}

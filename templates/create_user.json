@@ -1,0 +1,252 @@
+{
+    "contact_details": {
+        "title": "Contact Details",
+        "questions": [
+            {
+                "question": "Form_Contact_Name",
+                "label": "Contact Name *"
+            },
+            {
+                "question": "Practice Name",
+                "label": "Practice Name *"
+            },
+            {
+                "question": "Contact Phone",
+                "label": "Contact Phone"
+            },
+            {
+                "question": "Contact Email",
+                "label": "Contact Email *"
+            },
+            {
+                "question": "Xplan_Site",
+                "label": "Which XPlan site? *"
+            },
+            {
+                "question": "Licensed_SelfLicenced",
+                "label": "Are you licensed or self-licensed? *"
+            },
+            {
+                "question": "Licensee",
+                "label": "Which Licensee? *"
+            },
+            {
+                "question": "Self_Licensed_Licensee_Name_Answer",
+                "label": "What is the name of your Licensee? *"
+            }
+        ]
+    },
+    "user_details": {
+        "title": "User Details",
+        "questions": [
+            {
+                "question": "Create New Users",
+                "label": "Create New Users"
+            }
+        ]
+    },
+    "create_user": {
+        "title": "Create User",
+        "questions": [
+            {
+                "question": "First Name",
+                "label": "First Name *"
+            },
+            {
+                "question": "Last Name",
+                "label": "Last Name *"
+            },
+            {
+                "question": "Mobile",
+                "label": "Mobile"
+            },
+            {
+                "question": "Email",
+                "label": "Email *"
+            },
+            {
+                "question": "Copy_Group_Address",
+                "label": "Do not add address"
+            },
+            {
+                "question": "Street",
+                "label": "Street"
+            },
+            {
+                "question": "Suburb",
+                "label": "Suburb"
+            },
+            {
+                "question": "State",
+                "label": "State *"
+            },
+            {
+                "question": "Postcode",
+                "label": "Postcode *"
+            },
+            {
+                "question": "User Type",
+                "label": "User Type *"
+            },
+            {
+                "question": "Job Title",
+                "label": "Job Title"
+            },
+            {
+                "question": "Replicate User",
+                "label": "Replicate User (licenses only)"
+            },
+            {
+                "question": "NewIPS",
+                "label": "IPS"
+            },
+            {
+                "question": "NewRiskRes.",
+                "label": "Risk Res."
+            },
+            {
+                "question": "NewW'Solver",
+                "label": "W'Solver"
+            },
+            {
+                "question": "NewWSInv.",
+                "label": "WS Inv."
+            },
+            {
+                "question": "NewXtools",
+                "label": "Xtools"
+            },
+            {
+                "question": "NewXtoolsPlus",
+                "label": "Xtools+"
+            },
+            {
+                "question": "Adviser_Commpay",
+                "label": "Commpay"
+            },
+            {
+                "question": "NewAlerts",
+                "label": "Alerts"
+            },
+            {
+                "question": "New_User_SMS_Gateway_Checkbox",
+                "label": "Do you want to apply an SMS Gateway to this user?"
+            },
+            {
+                "question": "New_User_SMS_Gateway",
+                "label": "Please specify the SMS Gateway provider, if known."
+            },
+            {
+                "question": "New_Other_SMS_Gateway_Name",
+                "label": "Please specify the SMS gateway provider name or domain"
+            }
+        ]
+    },
+    "new_adviser_custom_options": {
+        "title": "New Adviser Custom Options",
+        "questions": [
+            {
+                "question": "Qualifications",
+                "label": "Your Qualifications"
+            },
+            {
+                "question": "Practice_CAR",
+                "label": "Practice/CAR"
+            },
+            {
+                "question": "Practice_CAR_ABN",
+                "label": "Practice/CAR ABN"
+            },
+            {
+                "question": "Adviser Type",
+                "label": "Adviser Type"
+            },
+            {
+                "question": "Authorised Representative Number",
+                "label": "Authorised Representative Number"
+            },
+            {
+                "question": "Corporate Authorised Rep No.",
+                "label": "Corporate Authorised Rep No."
+            },
+            {
+                "question": "Footer_Documents_Option",
+                "label": "What would you like to include in the footer of your documents?"
+            }
+        ]
+    },
+    "user_module_details": {
+        "title": "User Module Details",
+        "questions": [
+            {
+                "question": "Effective_Date_Checkbox",
+                "label": "Do you want to schedule the requested changes to take place at a future date? (must be within three business days from date of submission)"
+            },
+            {
+                "question": "Effective Date",
+                "label": "Effective Date"
+            },
+            {
+                "question": "Any additional comments to assist us with your request (eg. adding new user to multiple groups, etc.):",
+                "label": "Any additional comments to assist us with your request (eg. adding new user to multiple groups, etc.):"
+            }
+        ]
+    },
+    "advice_tech_fields": {
+        "title": "Advice Tech Fields",
+        "questions": [
+            {
+                "question": "Salesforce_Case_ID",
+                "label": "Salesforce_Case_ID *"
+            },
+            {
+                "question": "Compass_Group_List",
+                "label": "Compass_Group_List *"
+            },
+            {
+                "question": "Compass_Group",
+                "label": "Compass_Group *"
+            },
+            {
+                "question": "Compass_Group_ID",
+                "label": "Compass_Group_ID *"
+            },
+            {
+                "question": "Comppass_CommPay_Access",
+                "label": "Comppass_CommPay_Access"
+            },
+            {
+                "question": "CWT_Group_List",
+                "label": "CWT_Group_List *"
+            },
+            {
+                "question": "CWT_Group",
+                "label": "CWT_Group *"
+            },
+            {
+                "question": "CWT_Group_ID",
+                "label": "CWT_Group_ID *"
+            },
+            {
+                "question": "LaVista_Branch",
+                "label": "LaVista_Branch"
+            },
+            {
+                "question": "UserID_Override_Checkbox",
+                "label": "Do you want to override automatically generated UserID?"
+            },
+            {
+                "question": "UserID_Override_Value",
+                "label": "What do you want the UserID to be?"
+            },
+            {
+                "question": "Salesforce_Contact_Created",
+                "label": "Does a Salesforce Contact need to be created for the new user?"
+            },
+            {
+                "question": "Sender_Email_Address",
+                "label": "Sender_Email_Address"
+            }
+        ]
+    }
+}
