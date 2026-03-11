@@ -1,3 +1,12 @@
+# Python cache directories
 __pycache__/
+
+# Data files
 input/
 output/
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
